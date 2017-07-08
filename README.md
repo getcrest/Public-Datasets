@@ -1,7 +1,7 @@
 # Public-Datasets
 ### Public Image Datasets
 - IRIS Flowers Data Set. One of the most common data set being used by the beginners for getting started with Pattern Recognition. This data set contains 3 different types of irises’ (Setosa, Versicolour, and Virginica) petal and sepal length. (Courtesy UCI).
-- [Breast Cancer Data Set](https://drive.google.com/file/d/0B4KI-B-t3wTjTHZ1U29WYU93enM/view?usp=sharing). A data set to perform classification tasks to identify if the type of cancer is either Benign or Malignant. (Courtesy UCI).
+- [Breast Cancer Data Set](https://drive.google.com/file/d/0B4KI-B-t3wTjTHZ1U29WYU93enM/view?usp=sharing). A data set to perform classification tasks to identify if there’s cancer in the mammography or not.
 - [Jewellery Data Set](https://drive.google.com/open?id=0B4KI-B-t3wTjbElMTS1DVldQUnc). A basic data set to start testing your CV algorithms to perform classification tasks. 
 - [Shapeset](https://drive.google.com/file/d/0B4KI-B-t3wTjQ05rcE1INzlTN2c/view?usp=sharing). An artificially generated images to train machines to identify different geometrical shapes. 
 
