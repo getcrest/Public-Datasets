@@ -6,7 +6,6 @@
 - [Shapeset](https://drive.google.com/file/d/0B4KI-B-t3wTjQ05rcE1INzlTN2c/view?usp=sharing). An artificially generated images to train machines to identify different geometrical shapes. 
 
 ### Public Text Datasets
-- [Sentiment Analysis Data set](https://drive.google.com/file/d/0B4KI-B-t3wTjLWlHN29BSC00YjQ/view?usp=sharing). One of the most basic data set in text but equally important for understanding customer reviews/feedback, and taking actions against it.
 - [News Data Set](https://drive.google.com/file/d/0B4KI-B-t3wTjTEF5SWVJMVd5amc/view?usp=sharing). A collection of 20 news groups top train a text classifier on different types of news.
 - Wine Quality Data Set. Related to Red and White variants of Portuguese “Vinho Verde” wine. This data set can be used for both Classification and Regression tasks. (Courtesy UCI).
 - Diabetes Data Set. A Categorical Data set of Diabetes records. (Courtesy UCI).
