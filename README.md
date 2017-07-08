@@ -3,7 +3,7 @@
 - IRIS Flowers Data Set. One of the most common data set being used by the beginners for getting started with Pattern Recognition. This data set contains 3 different types of irises’ (Setosa, Versicolour, and Virginica) petal and sepal length. (Courtesy UCI).
 - Wine Quality Data Set. Related to Red and White variants of Portuguese “Vinho Verde” wine. This data set can be used for both Classification and Regression tasks. (Courtesy UCI).
 - Diabetes Data Set. A Categorical Data set of Diabetes records. (Courtesy UCI).
-- Breast Cancer Data Set. A data set to perform classification tasks to identify if the type of cancer is either Benign or Malignant. (Courtesy UCI).
+- [Breast Cancer Data Set](https://drive.google.com/file/d/0B4KI-B-t3wTjTHZ1U29WYU93enM/view?usp=sharing). A data set to perform classification tasks to identify if the type of cancer is either Benign or Malignant. (Courtesy UCI).
 - Jewellery Data Set. A basic data set to start testing your CV algorithms to perform classification tasks. 
 - Shapeset. An artificially generated images to train machines to identify different geometrical shapes. 
 
